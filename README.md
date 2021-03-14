@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Building websites.  
 - 🌱 I’m currently learning html 
 - 👯 I’m looking to collaborate on making websites.  
-- ⚡ Fun fact: I never get tried of learing. 
+- ⚡ Fun fact: I never get tried/bored of learing. 
 
 ### Connect with me: 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/messenger.svg' alt='messenger' height='35'>](https://m.me/nahid.hasan.noyon.20/) 
