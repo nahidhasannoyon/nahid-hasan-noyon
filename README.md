@@ -31,7 +31,7 @@ icons/facebook/facebook-original.svg
  </p>
      Adding blogpost:END -->
 
-### Languages and Tools:
+### Skilled Languages:
 
 <img align="left" alt="C" width="26px" src="icons/c/c.svg" />
 <img align="left" alt="Cpp" width="26px" src="icons/cpp/cpp.svg" />
@@ -47,6 +47,8 @@ icons/facebook/facebook-original.svg
 
 <br> 
 <br>
+
+### Skilled Tools:
 
 <img align="left" alt="Codepen" width="26px" src="icons/codepen/codepen-icon.svg" />
 <img align="left" alt="Sourcetree" width="20px" src="icons/sourcetree/sourcetree-original.svg" />
