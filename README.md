@@ -13,9 +13,11 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg'   alt='twitter'   height='35'>](https://twitter.com/NahidHasanDaya) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg'     alt='gmail'     height='35'>](mailto:nahidhasannoyon20@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg'   alt='discord'   height='35'>]()
+
 <br />
 
 <h3 align="left">I practice Competitive programming in:</h3>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg'    alt='codechef'    height='35'>](https://codechef.com/users/aminahid)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg'  alt='codeforces'  height='35'>](https://codeforces.com/profile/aminahid)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg'  alt='hackerrank'  height='35'>](https://www.hackerrank.com/aminahid)
@@ -27,6 +29,7 @@
 [<img src='icons/spoj/spoj.png'             alt='spoj'       height='35'>](https://www.spoj.com/status/aminahid/)
 [<img src='icons/cs_academy/cs_academy.png' alt='cs academy' height='35'>](https://csacademy.com/user/aminahid)
 [<img src='icons/vjudge/vjudge.ico'         alt='vjudge'     height='35'>](https://vjudge.net/user/AmiNahid)
+
 <br />
 <br />
 
@@ -39,8 +42,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-<br> 
-<br> 
+<br /> 
+<br /> 
 
 ### Skilled Tools:
 
@@ -53,6 +56,10 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nahid-hasan-noyon) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/NahidHasanNoyon)
+
+<br /> 
+<br />
+
 <img align="left" alt="Codepen" width="26px" src="icons/codepen/codepen-icon.svg" />
 <img align="left" alt="Git" width="26px" src="icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="icons/github/github-original.svg" />
