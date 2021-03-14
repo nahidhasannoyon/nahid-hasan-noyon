@@ -40,21 +40,22 @@
 ### Skilled Tools:
 
 <img align="left" alt="Sourcetree" width="35" src="icons/sourcetree/sourcetree-original.svg" />
-<img align="left" alt="Sourcetree" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" />
+<img align="left" alt="git"        width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" />
 
+<br />
 
 ### Skilled Web-Applications:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](https://github.com/nahid-hasan-noyon) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='35'>](https://codepen.io/NahidHasanNoyon)
-[<img src='https://simpleicons.org/icons/bitbucket.svg' alt='bitbucket' height='35'>](https://bitbucket.org/nahid-hasan-noyon/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg'  alt='github'    height='35'>](https://github.com/nahid-hasan-noyon) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen'   height='35'>](https://codepen.io/NahidHasanNoyon)
+[<img src='https://simpleicons.org/icons/bitbucket.svg'                       alt='bitbucket' height='35'>](https://bitbucket.org/nahid-hasan-noyon/)
 
 ### Other sites:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13222254)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/slack.svg' alt='slack' height='40'>]()
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="nahidhasannoyon" height="30" />](https://auth.geeksforgeeks.org/user/nahidhasannoyon)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/trello.svg'  alt='trello'  height='35'>]()
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='35'>](https://stackoverflow.com/users/13222254)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/slack.svg'         alt='slack'         height='35'>]()
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="gfg"           height="35" />](https://auth.geeksforgeeks.org/user/nahidhasannoyon)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/trello.svg'        alt='trello'        height='35'>]()
 
 <!-- Add github status 
  ![[YOUR SORT NAME]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=[GITHUB USERNAME]&show_icons=true&theme=radical)
