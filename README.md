@@ -2,11 +2,14 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:nahidhasannoyon20@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=FFFFFF&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/nahid-hasan-noyon-850027196/)
 <br />
+<!--
 [<img align="left" alt="Nahid Hasan Noyon | Facebook" width="22px" src="icons/facebook/facebook-original.svg" />] [Facebook]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
+-->
+<!--
 file:///F:/GitHub/nahid-hasan-noyon/icons/slack/slack-original.svg
 <br />
 file:///F:/GitHub/nahid-hasan-noyon/icons/trello/trello-plain.svg
@@ -14,6 +17,7 @@ file:///F:/GitHub/nahid-hasan-noyon/icons/trello/trello-plain.svg
 file:///F:/GitHub/nahid-hasan-noyon/icons/twitter/twitter-original.svg
 <br />
 icons/facebook/facebook-original.svg
+-->
 <br />
 <br />
 <!-- Adding blogpost:START 
@@ -36,19 +40,15 @@ icons/facebook/facebook-original.svg
 
 <br />
 <br>
-<img align="left" alt="Codepen" width="26px" src="icons/codepen/codepen-original-wordmark.svg" />
-<img align="left" alt="Codepen" width="26px" src="icons/Codepen/codepen-logo-white.png" />
-<img align="left" alt="Codepen" width="26px" src="icons/codepen/codepen-logo-black.png" />
-<img align="left" alt="Codepen" width="26px" src="icons/Codepen/codepen-plain.svg" />
 <img align="left" alt="Codepen" width="26px" src="icons/codepen/codepen-icon.svg" />
 <img align="left" alt="sourcetree" width="26px" src="icons/sourcetree/sourcetree-original.svg" />
 <br>
 
-
+<!--
 file:///F:/GitHub/nahid-hasan-noyon/icons/google/google-original.svg
 file:///F:/GitHub/nahid-hasan-noyon/icons/heroku/heroku-original.svg
 file:///F:/GitHub/nahid-hasan-noyon/icons/oracle/oracle-original.svg
-
+-->
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true">
 </p>
