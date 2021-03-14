@@ -45,16 +45,11 @@ icons/facebook/facebook-original.svg
 
 <br>
 <br>
-
 ![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true&theme=radical)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nahid-hasan-noyon&theme=onedark)](https://github.com/nahid-hasan-noyon/github-profile-trophy)
-
 
 [![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon)](https://github.com/nahid-hasan-noyon/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nahid-hasan-noyon&theme=onedark)](https://github.com/nahid-hasan-noyon/github-profile-trophy)
 
 <!--
 file:///F:/GitHub/nahid-hasan-noyon/icons/google/google-original.svg
