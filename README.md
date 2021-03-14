@@ -45,36 +45,36 @@ icons/facebook/facebook-original.svg
 
 <br>
 <br>
+
+![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true&theme=radical)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nahid-hasan-noyon&theme=onedark)](https://github.com/nahid-hasan-noyon/github-profile-trophy)
+
+
+[![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon)](https://github.com/nahid-hasan-noyon/github-readme-stats)
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&hide=contribs,prs)
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true)
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true&theme=radical)
+
 <!--
 file:///F:/GitHub/nahid-hasan-noyon/icons/google/google-original.svg
 file:///F:/GitHub/nahid-hasan-noyon/icons/heroku/heroku-original.svg
 file:///F:/GitHub/nahid-hasan-noyon/icons/oracle/oracle-original.svg
 -->
 
-
-![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true&theme=radical)
+[twitter]: https://twitter.com/codeSTACKr
+[Facebook]: https://www.facebook.com/nahid.hasan.noyon.20
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid-hasan-noyon&layout=compact)
 
 📊 **This week I spent my time on**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=NahidHasanNoyon&hide_title=true&hide_border=true&langs_count=5)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nahid-hasan-noyon&theme=onedark)](https://github.com/nahid-hasan-noyon/github-profile-trophy)
-
-[twitter]: https://twitter.com/codeSTACKr
-[Facebook]: https://www.facebook.com/nahid.hasan.noyon.20
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-
-
-[![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/nahid-hasan-noyon/github-readme-stats)
-<br />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-<br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-<br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
 
