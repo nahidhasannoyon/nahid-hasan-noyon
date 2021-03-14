@@ -6,35 +6,28 @@
 - ⚡ Fun fact: I never get tried of learing. 
 
 ### Connect with me: 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/messenger.svg' alt='messenger' height='40'>](https://m.me/nahid.hasan.noyon.20/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nahid-hasan-noyon-850027196/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nahid.hasan.noyon.20) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nahid_hasannoyon/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NahidHasanNoyon) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='twitter' height='40'>](mailto:nahidhasannoyon20@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) 
-<!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/descord.svg' alt='discord' height='40'>]( )-->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/messenger.svg' alt='messenger' height='35'>](https://m.me/nahid.hasan.noyon.20/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg'  alt='linkedin'  height='35'>](https://www.linkedin.com/in/nahid-hasan-noyon-850027196/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg'  alt='facebook'  height='35'>](https://www.facebook.com/nahid.hasan.noyon.20) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='35'>](https://www.instagram.com/nahid_hasannoyon/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg'   alt='twitter'   height='35'>](https://twitter.com/NahidHasanNoyon) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg'     alt='twitter'   height='35'>](mailto:nahidhasannoyon20@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>]( )
 
 <br />
-
 <h3 align="left">I practice Competitive programming in:</h3>
-<p align="left">
-<a href="https://www.codechef.com/users/aminahid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aminahid" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aminahid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="aminahid" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/aminahid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="aminahid" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nahidhasannoyon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="nahidhasannoyon" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/aminahid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="aminahid" height="30" width="40" /></a>
 
-<a href="https://www.topcoder.com/members/aminahid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="aminahid" height="30" width="40" /></a>
-
-</p>
-
-<!--
-/icons/slack/slack-original.svg
-<br />
-icons/trello/trello-plain.svg
-<br />
-<br />
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg'  alt='codechef'  height='35'>](https://codechef.com/users/aminahid)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg'  alt='codeforces'  height='35'>](https://codeforces.com/profile/aminahid)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg'  alt='hackerrank'  height='35'>](https://www.hackerrank.com/aminahid)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg'  alt='leetcode'  height='35'>](https://www.leetcode.com/nahidhasannoyon)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg'  alt='hackerearth'  height='35'>](https://www.hackerearth.com/aminahid)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/topcoder.svg'  alt='topcoder'  height='35'>](https://www.topcoder.com/members/aminahid)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg'  alt='codechef'  height='35'>](https://codechef.com/users/aminahid)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg'  alt='codechef'  height='35'>](https://codechef.com/users/aminahid)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg'  alt='codechef'  height='35'>](https://codechef.com/users/aminahid)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg'  alt='codechef'  height='35'>](https://codechef.com/users/aminahid)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg'  alt='codechef'  height='35'>](https://codechef.com/users/aminahid)
 <br />
 <br />
 
@@ -52,7 +45,7 @@ icons/trello/trello-plain.svg
 
 ### Skilled Tools:
 
-<img align="left" alt="Sourcetree" width="20px" src="icons/sourcetree/sourcetree-original.svg" />
+<img align="left" alt="Sourcetree" width="35.px" src="icons/sourcetree/sourcetree-original.svg" />
 
 <br> 
 <br>
@@ -76,7 +69,7 @@ icons/trello/trello-plain.svg
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13222254)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/slack.svg' alt='slack' height='40'>]()
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="nahidhasannoyon" height="30" />](https://auth.geeksforgeeks.org/user/nahidhasannoyon)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/trello.svg'  alt='trello'  height='35'>]()
 
 <!-- Add github status 
  ![[YOUR SORT NAME]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=[GITHUB USERNAME]&show_icons=true&theme=radical)
