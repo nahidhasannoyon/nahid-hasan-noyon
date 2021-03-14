@@ -47,28 +47,20 @@
 
 ### Skilled Tools:
 
-<img align="left" alt="Sourcetree" width="35px" src="icons/sourcetree/sourcetree-original.svg" />
-
-<br> 
-<br>
-
-### Skilled Web-Applications:
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nahid-hasan-noyon) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/NahidHasanNoyon)
+<img align="left" alt="Sourcetree" width="35" src="icons/sourcetree/sourcetree-original.svg" />
+<img align="left" alt="Sourcetree" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" />
 
 <br /> 
 <br />
 
-<img align="left" alt="Codepen" width="26px" src="icons/codepen/codepen-icon.svg" />
-<img align="left" alt="Git" width="26px" src="icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="icons/github/github-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
-<img align="left" alt="Bitbucket" width="26px" src="icons/bitbucket/bitbucket-original.svg" />
-<img align="left" alt="GitLab" width="26px" src="icons/gitlab/gitlab-original.svg" />
+### Skilled Web-Applications:
 
-<br> 
-<br>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](https://github.com/nahid-hasan-noyon) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='35'>](https://codepen.io/NahidHasanNoyon)
+[<img src='https://simpleicons.org/icons/bitbucket.svg' alt='bitbucket' height='35'>](https://bitbucket.org/nahid-hasan-noyon/)
+
+<br /> 
+<br />
 
 ### Other sites:
 
