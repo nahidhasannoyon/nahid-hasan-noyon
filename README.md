@@ -1,10 +1,21 @@
 # nahid-hasan-noyon
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:nahidhasannoyon20@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=FFFFFF&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/nahid-hasan-noyon-850027196/)
+
+[<img align="left" alt="Nahid Hasan Noyon | Facebook" width="22px" src="icons/facebook/facebook-original.svg" />] [Facebook]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
 file:///F:/GitHub/nahid-hasan-noyon/icons/slack/slack-original.svg
+<br />
 file:///F:/GitHub/nahid-hasan-noyon/icons/trello/trello-plain.svg
+<br />
 file:///F:/GitHub/nahid-hasan-noyon/icons/twitter/twitter-original.svg
+<br />
 icons/facebook/facebook-original.svg
+<br />
+<br />
 <!-- Adding blogpost:START 
 <a href="https://refreshmind365.blogspot.com/"><img src = "https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=ffffff&logo=blogger&logoColor=FC4F08"></a>
  </p>
@@ -22,61 +33,35 @@ icons/facebook/facebook-original.svg
 <img align="left" alt="Git" width="26px" src="icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="icons/github/github-original.svg" />
 <img align="left" alt="Bitbucket" width="26px" src="icons/bitbucket/bitbucket-original.svg" />
-icons/gitlab/gitlab-original.svg
+<img align="left" alt="GitLab" width="26px" src="icons/gitlab/gitlab-original.svg" />
 
 <br />
 
-icons/codepen/codepen-original-wordmark.svg
-file:///F:/GitHub/nahid-hasan-noyon/icons/sourcetree/sourcetree-original.svg
+<img align="left" alt="Codepen" width="26px" src="icons/codepen/codepen-original-wordmark.svg" />
+<img align="left" alt="sourcetree" width="26px" src="icons/sourcetree/sourcetree-original.svg" />
 <br>
-# {...} My Stack 💻🚀
 
-```js
-const myStacks = {
-  languages: ["C", "C++", "JavaScript", "Java"],
-  technologies: {
-      frontEnd: ["Html", "CSS", "XML"],
-      frameWork: ["Android"],
-      dataBases: ["MySQL", "Oracle", "NoSQL"],
-      tools: ["VS Code", "Android Studio", "PyCharm", "IntelliJ IDEA", "CodeBlocks"],
-      VCS: ["Git"],
-      AI_Framework: ["Scikit-learn"],
-      MISC: ["Firebase"],
-  }
-};
-```
 
 file:///F:/GitHub/nahid-hasan-noyon/icons/google/google-original.svg
 file:///F:/GitHub/nahid-hasan-noyon/icons/heroku/heroku-original.svg
 file:///F:/GitHub/nahid-hasan-noyon/icons/oracle/oracle-original.svg
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=samnoon1971&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true">
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samnoon1971&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid-hasan-noyon&layout=compact)
+
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=NahidHasanNoyon&hide_title=true&hide_border=true&langs_count=5)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nahid-hasan-noyon&theme=onedark)](https://github.com/nahid-hasan-noyon/github-profile-trophy)
+
+[twitter]: https://twitter.com/codeSTACKr
+[Facebook]: https://www.facebook.com/nahid.hasan.noyon.20
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=samnoon1971&theme=onedark)](https://github.com/samnoon1971/github-profile-trophy)
-
-# StackOverflow Activity
-<!-- STACKOVERFLOW:START -->
-name: Latest stack overflow activity
-on:
-  schedule:
-    # Runs every 5 minutes
-    - cron: '*/5 * * * *'
-  workflow_dispatch:
-jobs:
-  update-readme-with-stack-overflow:
-    name: Update this repo's README with latest activity from StackOverflow
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "STACKOVERFLOW"
-          commit_message: "Updated readme with the latest stackOverflow data"
-          feed_list: "https://stackoverflow.com/feeds/user/4214976"
-<!-- STACKOVERFLOW:END -->
