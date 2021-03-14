@@ -23,11 +23,11 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg'  alt='leetcode'  height='35'>](https://www.leetcode.com/nahidhasannoyon)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg'  alt='hackerearth'  height='35'>](https://www.hackerearth.com/aminahid)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/topcoder.svg'  alt='topcoder'  height='35'>](https://www.topcoder.com/members/aminahid)
-[<img src='icons/uri/uri.svg'  alt='uri'  height='35'>](https://www.urionlinejudge.com.br/judge/en/profile/508930)
-[<img src='icons/toph/toph.svg'  alt='toph'  height='35'>](https://toph.co/u/aminahid)
-[<img src='icons/spoj/spoj.svg'  alt='spoj'  height='35'>](https://www.spoj.com/status/aminahid/)
-[<img src='icons/spoj/spoj.svg'  alt='cs academy'  height='35'>](https://csacademy.com/user/aminahid)
-[<img src='icons/vjudge/vjudge.svg'  alt='vjudge'  height='35'>](https://vjudge.net/user/AmiNahid)
+[<img src='icons/uri/uri.png'  alt='uri'  height='35'>](https://www.urionlinejudge.com.br/judge/en/profile/508930)
+[<img src='icons/toph/toph.png'  alt='toph'  height='35'>](https://toph.co/u/aminahid)
+[<img src='icons/spoj/spoj.png'  alt='spoj'  height='35'>](https://www.spoj.com/status/aminahid/)
+[<img src='icons/spoj/spoj.png'  alt='cs academy'  height='35'>](https://csacademy.com/user/aminahid)
+[<img src='icons/vjudge/vjudge.png'  alt='vjudge'  height='35'>](https://vjudge.net/user/AmiNahid)
 <br />
 <br />
 
