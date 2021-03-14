@@ -14,8 +14,6 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg'     alt='gmail'     height='35'>](mailto:nahidhasannoyon20@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg'   alt='discord'   height='35'>]()
 
-<br />
-
 <h3 align="left">I practice Competitive programming in:</h3>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg'    alt='codechef'    height='35'>](https://codechef.com/users/aminahid)
@@ -30,9 +28,6 @@
 [<img src='icons/cs_academy/cs_academy.png' alt='cs academy' height='35'>](https://csacademy.com/user/aminahid)
 [<img src='icons/vjudge/vjudge.ico'         alt='vjudge'     height='35'>](https://vjudge.net/user/AmiNahid)
 
-<br />
-<br />
-
 ### Skilled Languages:
 
 <code><img height="40" src="icons/c/c.svg"></code>
@@ -42,25 +37,16 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-<br /> 
-<br /> 
-
 ### Skilled Tools:
 
 <img align="left" alt="Sourcetree" width="35" src="icons/sourcetree/sourcetree-original.svg" />
 <img align="left" alt="Sourcetree" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" />
-
-<br /> 
-<br />
 
 ### Skilled Web-Applications:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='35'>](https://github.com/nahid-hasan-noyon) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='35'>](https://codepen.io/NahidHasanNoyon)
 [<img src='https://simpleicons.org/icons/bitbucket.svg' alt='bitbucket' height='35'>](https://bitbucket.org/nahid-hasan-noyon/)
-
-<br /> 
-<br />
 
 ### Other sites:
 
