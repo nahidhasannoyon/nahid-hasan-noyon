@@ -15,7 +15,7 @@ file:///F:/GitHub/nahid-hasan-noyon/icons/twitter/twitter-original.svg
 <br />
 icons/facebook/facebook-original.svg
 <br />
-
+<br />
 <!-- Adding blogpost:START 
 <a href="https://refreshmind365.blogspot.com/"><img src = "https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=ffffff&logo=blogger&logoColor=FC4F08"></a>
  </p>
@@ -33,7 +33,7 @@ icons/facebook/facebook-original.svg
 <img align="left" alt="Git" width="26px" src="icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="icons/github/github-original.svg" />
 <img align="left" alt="Bitbucket" width="26px" src="icons/bitbucket/bitbucket-original.svg" />
-icons/gitlab/gitlab-original.svg
+<img align="left" alt="GitLab" width="26px" src="icons/gitlab/gitlab-original.svg" />
 
 <br />
 
