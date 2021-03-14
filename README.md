@@ -23,11 +23,11 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg'  alt='leetcode'  height='35'>](https://www.leetcode.com/nahidhasannoyon)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg'  alt='hackerearth'  height='35'>](https://www.hackerearth.com/aminahid)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/topcoder.svg'  alt='topcoder'  height='35'>](https://www.topcoder.com/members/aminahid)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg'  alt='codechef'  height='35'>](https://codechef.com/users/aminahid)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg'  alt='codechef'  height='35'>](https://codechef.com/users/aminahid)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg'  alt='codechef'  height='35'>](https://codechef.com/users/aminahid)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg'  alt='codechef'  height='35'>](https://codechef.com/users/aminahid)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg'  alt='codechef'  height='35'>](https://codechef.com/users/aminahid)
+[<img src=''  alt='uri'  height='35'>](https://www.urionlinejudge.com.br/judge/en/profile/508930)
+[<img src=''  alt='toph'  height='35'>](https://toph.co/u/aminahid)
+[<img src=''  alt='spoj'  height='35'>](https://www.spoj.com/status/aminahid/)
+[<img src=''  alt='cs academy'  height='35'>](https://csacademy.com/user/aminahid)
+[<img src=''  alt='vjudge'  height='35'>](https://vjudge.net/user/AmiNahid)
 <br />
 <br />
 
