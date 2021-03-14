@@ -127,7 +127,7 @@ file:///F:/GitHub/nahid-hasan-noyon/icons/oracle/oracle-original.svg
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
-![Trex Game](icons/screenshot.gif)
+![Trex Game](icons/dino.gif)
 
 
 
