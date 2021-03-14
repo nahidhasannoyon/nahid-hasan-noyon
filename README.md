@@ -39,19 +39,19 @@ icons/facebook/facebook-original.svg
 <img align="left" alt="GitLab" width="26px" src="icons/gitlab/gitlab-original.svg" />
 
 <br />
-<br>
 <img align="left" alt="Codepen" width="26px" src="icons/codepen/codepen-icon.svg" />
 <img align="left" alt="sourcetree" width="26px" src="icons/sourcetree/sourcetree-original.svg" />
-<br>
-
+<br />
 <!--
 file:///F:/GitHub/nahid-hasan-noyon/icons/google/google-original.svg
 file:///F:/GitHub/nahid-hasan-noyon/icons/heroku/heroku-original.svg
 file:///F:/GitHub/nahid-hasan-noyon/icons/oracle/oracle-original.svg
 -->
-<p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true&theme=radical)
+
   <img src="https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true">
-</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid-hasan-noyon&layout=compact)
 
@@ -66,5 +66,14 @@ file:///F:/GitHub/nahid-hasan-noyon/icons/oracle/oracle-original.svg
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 
+
+[![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/nahid-hasan-noyon/github-readme-stats)
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
