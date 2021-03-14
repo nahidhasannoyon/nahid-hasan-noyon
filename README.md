@@ -9,13 +9,13 @@
  
 ### Languages and Tools:
 <img align="left" alt="C" width="26px" src="icons/c/c.svg" />
-<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java_48x48.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Cpp" width="26px" src="icons/cpp/cpp.svg" />
+<img align="left" alt="Java" width="20px" src="icons/java/java.svg" />
+<img align="left" alt="HTML5" width="26px" src="icons/html/html.svg" />
 <img align="left" alt="CSS" width="26px" src="icons/css/css.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="JavaScript" width="26px" src="icons/javascript/javascript.svg" />
+<img align="left" alt="Git" width="26px" src="icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="26px" src="icons/github/github-original.svg" />
 
 <br />
 <br>
