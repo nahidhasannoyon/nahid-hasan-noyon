@@ -76,3 +76,10 @@ file:///F:/GitHub/nahid-hasan-noyon/icons/oracle/oracle-original.svg
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
