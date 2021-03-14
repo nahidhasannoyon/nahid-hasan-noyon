@@ -11,17 +11,16 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg'  alt='facebook'  height='35'>](https://www.facebook.com/nahid.hasan.noyon.20) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='35'>](https://www.instagram.com/nahid_hasannoyon/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg'   alt='twitter'   height='35'>](https://twitter.com/NahidHasanDaya) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg'     alt='gmail'   height='35'>](mailto:nahidhasannoyon20@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>]( )
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg'     alt='gmail'     height='35'>](mailto:nahidhasannoyon20@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg'   alt='discord'   height='35'>]()
 <br />
-<h3 align="left">I practice Competitive programming in:</h3>
 
+<h3 align="left">I practice Competitive programming in:</h3>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg'    alt='codechef'    height='35'>](https://codechef.com/users/aminahid)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg'  alt='codeforces'  height='35'>](https://codeforces.com/profile/aminahid)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg'  alt='hackerrank'  height='35'>](https://www.hackerrank.com/aminahid)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg'    alt='leetcode'    height='35'>](https://www.leetcode.com/nahidhasannoyon)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg' alt='hackerearth' height='35'>](https://www.hackerearth.com/aminahid)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerearth.svg' alt='hackerearth' height='35'>](https://www.hackerearth.com/@AmiNahid)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/topcoder.svg'    alt='topcoder'    height='35'>](https://www.topcoder.com/members/aminahid)
 [<img src='icons/uri/uri.png'               alt='uri'        height='35'>](https://www.urionlinejudge.com.br/judge/en/profile/508930)
 [<img src='icons/toph/toph.png'             alt='toph'       height='35'>](https://toph.co/u/aminahid)
@@ -45,7 +44,7 @@
 
 ### Skilled Tools:
 
-<img align="left" alt="Sourcetree" width="35.px" src="icons/sourcetree/sourcetree-original.svg" />
+<img align="left" alt="Sourcetree" width="35px" src="icons/sourcetree/sourcetree-original.svg" />
 
 <br> 
 <br>
