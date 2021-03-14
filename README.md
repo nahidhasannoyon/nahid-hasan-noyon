@@ -62,7 +62,7 @@ icons/facebook/facebook-original.svg
 <img align="left" alt="Bitbucket" width="26px" src="icons/bitbucket/bitbucket-original.svg" />
 <img align="left" alt="GitLab" width="26px" src="icons/gitlab/gitlab-original.svg" />
 
-![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true&theme=radical)
+![Nahid's GitHub stats](https://my-readme-stats-nahid-hasan-noyon.vercel.app/api?username=nahid-hasan-noyon&show_icons=true&theme=radical)
 
 [![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon)](https://github.com/nahid-hasan-noyon/github-readme-stats)
 
@@ -156,5 +156,10 @@ file:///F:/GitHub/nahid-hasan-noyon/icons/oracle/oracle-original.svg
 <!-- Adding Icons command
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[ICON SLUG].svg" />
 or, get from https://simpleicons.org/
+or, https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/[Icons Name]/[Icons Name].png
 -->
 
+<!-- First fork it then goto your settings then developer settings then presonal access token then genarate new token and name it then copy the token.
+then sign in/up in vercel.com and add new project then add paste your forked link then select that same repository then add a unique name and
+paste the token to environment variable value and give any name to it then lastly copy the given url and paste it in 
+![Nahid's GitHub stats](my-readme-stats-nahid-hasan-noyon.vercel.app/api?username=nahid-hasan-noyon&show_icons=true&theme=radical)
