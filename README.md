@@ -124,11 +124,6 @@ file:///F:/GitHub/nahid-hasan-noyon/icons/oracle/oracle-original.svg
 <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid-hasan-noyon)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true)  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nahid-hasan-noyon)  
 
 ![GitHub metrics](https://metrics.lecoq.io/nahid-hasan-noyon)  
