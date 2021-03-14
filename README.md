@@ -1,6 +1,10 @@
 # nahid-hasan-noyon
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:nahidhasannoyon20@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=FFFFFF&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/nahid-hasan-noyon-850027196/)
+file:///F:/GitHub/nahid-hasan-noyon/icons/slack/slack-original.svg
+file:///F:/GitHub/nahid-hasan-noyon/icons/trello/trello-plain.svg
+file:///F:/GitHub/nahid-hasan-noyon/icons/twitter/twitter-original.svg
+icons/facebook/facebook-original.svg
 <!-- Adding blogpost:START 
 <a href="https://refreshmind365.blogspot.com/"><img src = "https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=ffffff&logo=blogger&logoColor=FC4F08"></a>
  </p>
@@ -8,19 +12,22 @@
 
  
 ### Languages and Tools:
-<!--img align="left" alt="C" width="26px" src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png"-->
-<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/java/java_48x48.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python_32x32.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Intellij Idea" width="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/intellij-icon.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="C" width="26px" src="icons/c/c.svg" />
+<img align="left" alt="Cpp" width="26px" src="icons/cpp/cpp.svg" />
+<img align="left" alt="Java" width="20px" src="icons/java/java.svg" />
+<img align="left" alt="HTML5" width="26px" src="icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="26px" src="icons/css/css.svg" />
+<img align="left" alt="CSS" width="26px" src="icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" width="26px" src="icons/javascript/javascript.svg" />
+<img align="left" alt="Git" width="26px" src="icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="26px" src="icons/github/github-original.svg" />
+<img align="left" alt="Bitbucket" width="26px" src="icons/bitbucket/bitbucket-original.svg" />
+icons/gitlab/gitlab-original.svg
+
 <br />
+
+icons/codepen/codepen-original-wordmark.svg
+file:///F:/GitHub/nahid-hasan-noyon/icons/sourcetree/sourcetree-original.svg
 <br>
 # {...} My Stack 💻🚀
 
@@ -39,7 +46,9 @@ const myStacks = {
 };
 ```
 
-
+file:///F:/GitHub/nahid-hasan-noyon/icons/google/google-original.svg
+file:///F:/GitHub/nahid-hasan-noyon/icons/heroku/heroku-original.svg
+file:///F:/GitHub/nahid-hasan-noyon/icons/oracle/oracle-original.svg
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=samnoon1971&show_icons=true">
@@ -50,3 +59,24 @@ const myStacks = {
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=samnoon1971&theme=onedark)](https://github.com/samnoon1971/github-profile-trophy)
+
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+name: Latest stack overflow activity
+on:
+  schedule:
+    # Runs every 5 minutes
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+jobs:
+  update-readme-with-stack-overflow:
+    name: Update this repo's README with latest activity from StackOverflow
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "STACKOVERFLOW"
+          commit_message: "Updated readme with the latest stackOverflow data"
+          feed_list: "https://stackoverflow.com/feeds/user/4214976"
+<!-- STACKOVERFLOW:END -->
