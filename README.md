@@ -6,8 +6,7 @@
 - ⚡ Fun fact: I never get tried of learing. 
 
 ### Connect with me: 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nahid-hasan-noyon) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nahid-hasan-noyon-850027196/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nahid.hasan.noyon.20) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nahid_hasannoyon/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NahidHasanNoyon) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/NahidHasanNoyon) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13222254) 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nahid-hasan-noyon-850027196/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nahid.hasan.noyon.20) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nahid_hasannoyon/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NahidHasanNoyon)   
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:nahidhasannoyon20@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
@@ -26,16 +25,9 @@
 </p>
 
 <!--
-[<img align="left" alt="Nahid Hasan Noyon | Facebook" width="22px" src="icons/facebook/facebook-original.svg" />] [Facebook]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+/icons/slack/slack-original.svg
 <br />
--->
-<!--
-file:///F:/GitHub/nahid-hasan-noyon/icons/slack/slack-original.svg
-<br />
-file:///F:/GitHub/nahid-hasan-noyon/icons/trello/trello-plain.svg
+icons/trello/trello-plain.svg
 <br />
 <br />
 -->
@@ -69,6 +61,9 @@ file:///F:/GitHub/nahid-hasan-noyon/icons/trello/trello-plain.svg
 
 ### Skilled Web-Applications:
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nahid-hasan-noyon) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/NahidHasanNoyon)
 <img align="left" alt="Codepen" width="26px" src="icons/codepen/codepen-icon.svg" />
 <img align="left" alt="Git" width="26px" src="icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="icons/github/github-original.svg" />
@@ -78,6 +73,10 @@ file:///F:/GitHub/nahid-hasan-noyon/icons/trello/trello-plain.svg
 
 <br> 
 <br>
+
+### Other sites:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13222254)
 
 <!-- Add github status 
  ![[YOUR SORT NAME]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=[GITHUB USERNAME]&show_icons=true&theme=radical)
