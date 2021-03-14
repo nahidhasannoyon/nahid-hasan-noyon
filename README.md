@@ -26,6 +26,7 @@ icons/facebook/facebook-original.svg
      Adding blogpost:END -->
 
 ### Languages and Tools:
+
 <img align="left" alt="C" width="26px" src="icons/c/c.svg" />
 <img align="left" alt="Cpp" width="26px" src="icons/cpp/cpp.svg" />
 <img align="left" alt="Java" width="20px" src="icons/java/java.svg" />
@@ -47,15 +48,16 @@ icons/facebook/facebook-original.svg
 <br> 
 <br>
 
+![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true&theme=radical)
+
+[![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon)](https://github.com/nahid-hasan-noyon/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid-hasan-noyon&layout=compact)
 
 📊 **This week I spent my time on**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=NahidHasanNoyon&hide_title=true&hide_border=true&langs_count=5)
 
-![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true&theme=radical)
-
-[![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon)](https://github.com/nahid-hasan-noyon/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nahid-hasan-noyon&theme=onedark)](https://github.com/nahid-hasan-noyon/github-profile-trophy)
 
