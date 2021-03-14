@@ -37,8 +37,8 @@ icons/gitlab/gitlab-original.svg
 
 <br />
 
-icons/codepen/codepen-original-wordmark.svg
-file:///F:/GitHub/nahid-hasan-noyon/icons/sourcetree/sourcetree-original.svg
+<img align="left" alt="Codepen" width="26px" src="icons/codepen/codepen-original-wordmark.svg" />
+<img align="left" alt="sourcetree" width="26px" src="file:///F:/GitHub/nahid-hasan-noyon/icons/sourcetree/sourcetree-original.svg" />
 <br>
 
 
@@ -54,7 +54,7 @@ file:///F:/GitHub/nahid-hasan-noyon/icons/oracle/oracle-original.svg
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=samnoon1971&theme=onedark)](https://github.com/nahid-hasan-noyon/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nahid-hasan-noyon&theme=onedark)](https://github.com/nahid-hasan-noyon/github-profile-trophy)
 
 [twitter]: https://twitter.com/codeSTACKr
 [Facebook]: https://www.facebook.com/nahid.hasan.noyon.20
