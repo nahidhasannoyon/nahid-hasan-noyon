@@ -1,10 +1,17 @@
-### Hi there, I'm Nahid Hasan Noyon 👋
+## Hi there, I'm Nahid Hasan Noyon 👋
 
 - 🔭 I’m currently working on Building websites.  
 - 🌱 I’m currently learning html 
 - 👯 I’m looking to collaborate on making websites.  
 - ⚡ Fun fact: I never get tried of learing. 
 
+### Connect with me: 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nahid-hasan-noyon) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nahid-hasan-noyon-850027196/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nahid.hasan.noyon.20) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nahid_hasannoyon/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NahidHasanNoyon) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/NahidHasanNoyon) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13222254) 
+
+
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:nahidhasannoyon20@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+
+<br />
 
 <h3 align="left">I practice programming in:</h3>
 <p align="left">
@@ -18,12 +25,6 @@
 <a href="https://discord.gg/https://discord.gg/VYvhcbm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/VYvhcbm" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nahid-hasan-noyon) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nahid-hasan-noyon-850027196/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nahid.hasan.noyon.20) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nahid_hasannoyon/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NahidHasanNoyon) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/NahidHasanNoyon) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13222254)  
-
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:nahidhasannoyon20@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=FFFFFF&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/nahid-hasan-noyon-850027196/)
-<br />
 <!--
 [<img align="left" alt="Nahid Hasan Noyon | Facebook" width="22px" src="icons/facebook/facebook-original.svg" />] [Facebook]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -59,6 +60,7 @@ icons/facebook/facebook-original.svg
 <img align="left" alt="CSS" width="26px" src="icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="icons/javascript/javascript.svg" />
 
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 <br> 
 <br>
 
@@ -157,8 +159,8 @@ file:///F:/GitHub/nahid-hasan-noyon/icons/oracle/oracle-original.svg
 
 ![Trex Game](icons/screenshot.gif)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+
+
 
 <!-- Adding Icons command
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[ICON SLUG].svg" />
@@ -172,3 +174,5 @@ or, https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350f
 <!-- Add Badges 
  https://shields.io/
 -->
+
+ 
