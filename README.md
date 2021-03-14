@@ -63,7 +63,9 @@ icons/facebook/facebook-original.svg
 <img align="left" alt="GitLab" width="26px" src="icons/gitlab/gitlab-original.svg" />
 
 ![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true&theme=radical)
-
+<!-- Add github status 
+ ![[YOUR SORT NAME]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=[GITHUB USERNAME]&show_icons=true&theme=radical)
+-->
 [![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon)](https://github.com/nahid-hasan-noyon/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid-hasan-noyon&layout=compact)
@@ -159,15 +161,8 @@ or, get from https://simpleicons.org/
 or, https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/[Icons Name]/[Icons Name].png
 -->
 
-<!-- First fork it then goto your settings then developer settings then presonal access token then genarate new token and name it then copy the token.
-then sign in/up in vercel.com and add new project then add paste your forked link or select the git repository from in there then give a project name.
-give any name in Name and paste the token in value of environment variable then hit deploy and wait till it say to go dashboard 
+<!-- Add github status 
+ ![[YOUR SORT NAME]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=[GITHUB USERNAME]&show_icons=true&theme=radical)
+
 -->
 
-![Nahid's GitHub stats](https://github-readme-stats-nahid-hasan-noyon.vercel.app/api?username=nahid-hasan-noyon&show_icons=true&theme=radical)
-
-[![Nahid's GitHub stats](https://github-readme-stats-nahid-hasan-noyon.vercel.app/api?username=nahid-hasan-noyon)](https://github.com/nahid-hasan-noyon/github-readme-stats)
-
-<!--
-![Nahid's GitHub stats](my-readme-stats-nahid-hasan-noyon.vercel.app/api?username=nahid-hasan-noyon&show_icons=true&theme=radical)
--->
