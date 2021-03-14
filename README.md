@@ -31,6 +31,8 @@ icons/facebook/facebook-original.svg
  </p>
      Adding blogpost:END -->
 
+
+
 ### Skilled Languages:
 
 <img align="left" alt="C" width="26px" src="icons/c/c.svg" />
@@ -56,6 +58,7 @@ icons/facebook/facebook-original.svg
 <img align="left" alt="Codepen" width="26px" src="icons/codepen/codepen-icon.svg" />
 <img align="left" alt="Git" width="26px" src="icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />
 <img align="left" alt="Bitbucket" width="26px" src="icons/bitbucket/bitbucket-original.svg" />
 <img align="left" alt="GitLab" width="26px" src="icons/gitlab/gitlab-original.svg" />
 
@@ -149,4 +152,9 @@ file:///F:/GitHub/nahid-hasan-noyon/icons/oracle/oracle-original.svg
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+
+<!-- Adding Icons command
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[ICON SLUG].svg" />
+or, get from https://simpleicons.org/
+-->
 
