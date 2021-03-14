@@ -39,6 +39,8 @@ icons/facebook/facebook-original.svg
 <img align="left" alt="Codepen" width="26px" src="icons/codepen/codepen-original-wordmark.svg" />
 <img align="left" alt="Codepen" width="26px" src="icons/Codepen/codepen-logo-white.png" />
 <img align="left" alt="Codepen" width="26px" src="icons/codepen/codepen-logo-black.png" />
+<img align="left" alt="Codepen" width="26px" src="icons/Codepen/codepen-plain.svg" />
+<img align="left" alt="Codepen" width="26px" src="icons/codepen/codepen-icon.svg" />
 <img align="left" alt="sourcetree" width="26px" src="icons/sourcetree/sourcetree-original.svg" />
 <br>
 
