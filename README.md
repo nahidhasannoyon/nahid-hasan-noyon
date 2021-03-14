@@ -53,12 +53,7 @@ icons/facebook/facebook-original.svg
 
 
 [![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon)](https://github.com/nahid-hasan-noyon/github-readme-stats)
-<br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&hide=contribs,prs)
-<br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true)
-<br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true&theme=radical)
 
 <!--
