@@ -6,7 +6,14 @@
 - ⚡ Fun fact: I never get tried of learing. 
 
 ### Connect with me: 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nahid-hasan-noyon-850027196/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nahid.hasan.noyon.20) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nahid_hasannoyon/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NahidHasanNoyon) [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:nahidhasannoyon20@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/messenger.svg' alt='messenger' height='40'>](https://m.me/nahid.hasan.noyon.20/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nahid-hasan-noyon-850027196/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nahid.hasan.noyon.20) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nahid_hasannoyon/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NahidHasanNoyon) 
+<!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/descord.svg' alt='discord' height='40'>]( )-->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='twitter' height='40'>](mailto:nahidhasannoyon20@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) 
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:nahidhasannoyon20@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
 <br />
 
@@ -31,12 +38,6 @@ icons/trello/trello-plain.svg
 -->
 <br />
 <br />
-<!-- Adding blogpost:START 
-<a href="https://refreshmind365.blogspot.com/"><img src = "https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=ffffff&logo=blogger&logoColor=FC4F08"></a>
- </p>
-     Adding blogpost:END -->
-
-
 
 ### Skilled Languages:
 
@@ -58,7 +59,6 @@ icons/trello/trello-plain.svg
 <br>
 
 ### Skilled Web-Applications:
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nahid-hasan-noyon) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/NahidHasanNoyon)
@@ -95,11 +95,6 @@ file:///F:/GitHub/nahid-hasan-noyon/icons/heroku/heroku-original.svg
 file:///F:/GitHub/nahid-hasan-noyon/icons/oracle/oracle-original.svg
 -->
 
-[twitter]: https://twitter.com/codeSTACKr
-[Facebook]: https://www.facebook.com/nahid.hasan.noyon.20
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
@@ -108,7 +103,6 @@ file:///F:/GitHub/nahid-hasan-noyon/icons/oracle/oracle-original.svg
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
 </details>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nahid-hasan-noyon)  
@@ -119,18 +113,9 @@ file:///F:/GitHub/nahid-hasan-noyon/icons/oracle/oracle-original.svg
 
 ![Profile views](https://gpvc.arturio.dev/nahid-hasan-noyon)  
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
-
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
 ![Trex Game](icons/dino.gif)
-
-
 
 
 <!-- Adding Icons command
