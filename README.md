@@ -40,21 +40,24 @@ icons/facebook/facebook-original.svg
 <img align="left" alt="CSS" width="26px" src="icons/css/css.svg" />
 <img align="left" alt="CSS" width="26px" src="icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="icons/javascript/javascript.svg" />
-<img align="left" alt="Git" width="26px" src="icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="icons/github/github-original.svg" />
-<img align="left" alt="Bitbucket" width="26px" src="icons/bitbucket/bitbucket-original.svg" />
-<img align="left" alt="GitLab" width="26px" src="icons/gitlab/gitlab-original.svg" />
 
 <br> 
 <br>
 
 ### Skilled Tools:
 
-<img align="left" alt="Codepen" width="26px" src="icons/codepen/codepen-icon.svg" />
 <img align="left" alt="Sourcetree" width="20px" src="icons/sourcetree/sourcetree-original.svg" />
 
 <br> 
 <br>
+
+### Skilled Web-Applications:
+
+<img align="left" alt="Codepen" width="26px" src="icons/codepen/codepen-icon.svg" />
+<img align="left" alt="Git" width="26px" src="icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="26px" src="icons/github/github-original.svg" />
+<img align="left" alt="Bitbucket" width="26px" src="icons/bitbucket/bitbucket-original.svg" />
+<img align="left" alt="GitLab" width="26px" src="icons/gitlab/gitlab-original.svg" />
 
 ![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true&theme=radical)
 
@@ -107,7 +110,7 @@ file:///F:/GitHub/nahid-hasan-noyon/icons/oracle/oracle-original.svg
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nahid-hasan-noyon)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid-hasan-noyon)](https://github.com/anuraghazra/github-readme-stats)
 
