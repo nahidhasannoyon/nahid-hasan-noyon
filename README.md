@@ -43,7 +43,7 @@
 <img align="left" alt="git"        width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg" />
 
 <br />
-
+<br />
 
 ### Skilled Web-Applications:
 
