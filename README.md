@@ -37,9 +37,7 @@ file:///F:/GitHub/nahid-hasan-noyon/icons/slack/slack-original.svg
 <br />
 file:///F:/GitHub/nahid-hasan-noyon/icons/trello/trello-plain.svg
 <br />
-file:///F:/GitHub/nahid-hasan-noyon/icons/twitter/twitter-original.svg
 <br />
-icons/facebook/facebook-original.svg
 -->
 <br />
 <br />
@@ -82,13 +80,11 @@ icons/facebook/facebook-original.svg
 <br> 
 <br>
 
-![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true&theme=radical)
 <!-- Add github status 
  ![[YOUR SORT NAME]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=[GITHUB USERNAME]&show_icons=true&theme=radical)
 -->
-[![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon)](https://github.com/nahid-hasan-noyon/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid-hasan-noyon&layout=compact)
+![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true&theme=radical) [![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon)](https://github.com/nahid-hasan-noyon/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid-hasan-noyon&layout=compact)
 
 📊 **This week I spent my time on**
 
