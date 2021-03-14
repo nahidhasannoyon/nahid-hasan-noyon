@@ -38,7 +38,7 @@ icons/facebook/facebook-original.svg
 <br />
 
 <img align="left" alt="Codepen" width="26px" src="icons/codepen/codepen-original-wordmark.svg" />
-<img align="left" alt="sourcetree" width="26px" src="file:///F:/GitHub/nahid-hasan-noyon/icons/sourcetree/sourcetree-original.svg" />
+<img align="left" alt="sourcetree" width="26px" src="icons/sourcetree/sourcetree-original.svg" />
 <br>
 
 
@@ -52,7 +52,9 @@ file:///F:/GitHub/nahid-hasan-noyon/icons/oracle/oracle-original.svg
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid-hasan-noyon&layout=compact)
 
+📊 **This week I spent my time on**
 
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=NahidHasanNoyon&hide_title=true&hide_border=true&langs_count=5)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nahid-hasan-noyon&theme=onedark)](https://github.com/nahid-hasan-noyon/github-profile-trophy)
 
