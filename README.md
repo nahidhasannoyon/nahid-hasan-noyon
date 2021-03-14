@@ -37,16 +37,23 @@ icons/facebook/facebook-original.svg
 <img align="left" alt="GitHub" width="26px" src="icons/github/github-original.svg" />
 <img align="left" alt="Bitbucket" width="26px" src="icons/bitbucket/bitbucket-original.svg" />
 <img align="left" alt="GitLab" width="26px" src="icons/gitlab/gitlab-original.svg" />
+
 <br> 
 <br>
 
 <img align="left" alt="Codepen" width="26px" src="icons/codepen/codepen-icon.svg" />
-<img align="left" alt="sourcetree" width="26px" src="icons/sourcetree/sourcetree-original.svg" />
+<img align="left" alt="sourcetree" width="20px" src="icons/sourcetree/sourcetree-original.svg" />
 
-<br>
+<br> 
 <br>
 
-[![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid-hasan-noyon&layout=compact)
+
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=NahidHasanNoyon&hide_title=true&hide_border=true&langs_count=5)
+
+![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true&theme=radical)
 
 [![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon)](https://github.com/nahid-hasan-noyon/github-readme-stats)
 
@@ -63,9 +70,4 @@ file:///F:/GitHub/nahid-hasan-noyon/icons/oracle/oracle-original.svg
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid-hasan-noyon&layout=compact)
-
-📊 **This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=NahidHasanNoyon&hide_title=true&hide_border=true&langs_count=5)
 
