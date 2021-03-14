@@ -60,23 +60,5 @@ file:///F:/GitHub/nahid-hasan-noyon/icons/oracle/oracle-original.svg
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=samnoon1971&theme=onedark)](https://github.com/samnoon1971/github-profile-trophy)
 
-# StackOverflow Activity
-<!-- STACKOVERFLOW:START -->
-name: Latest stack overflow activity
-on:
-  schedule:
-    # Runs every 5 minutes
-    - cron: '*/5 * * * *'
-  workflow_dispatch:
-jobs:
-  update-readme-with-stack-overflow:
-    name: Update this repo's README with latest activity from StackOverflow
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "STACKOVERFLOW"
-          commit_message: "Updated readme with the latest stackOverflow data"
-          feed_list: "https://stackoverflow.com/feeds/user/4214976"
-<!-- STACKOVERFLOW:END -->
+
+
