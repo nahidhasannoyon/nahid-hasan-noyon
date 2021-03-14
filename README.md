@@ -1,7 +1,7 @@
 # nahid-hasan-noyon
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:nahidhasannoyon20@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=FFFFFF&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/nahid-hasan-noyon-850027196/)
-
+<br />
 [<img align="left" alt="Nahid Hasan Noyon | Facebook" width="22px" src="icons/facebook/facebook-original.svg" />] [Facebook]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -21,7 +21,6 @@ icons/facebook/facebook-original.svg
  </p>
      Adding blogpost:END -->
 
- 
 ### Languages and Tools:
 <img align="left" alt="C" width="26px" src="icons/c/c.svg" />
 <img align="left" alt="Cpp" width="26px" src="icons/cpp/cpp.svg" />
@@ -36,8 +35,10 @@ icons/facebook/facebook-original.svg
 <img align="left" alt="GitLab" width="26px" src="icons/gitlab/gitlab-original.svg" />
 
 <br />
-
+<br>
 <img align="left" alt="Codepen" width="26px" src="icons/codepen/codepen-original-wordmark.svg" />
+<img align="left" alt="Codepen" width="26px" src="icons/Codepen/codepen-logo-white.png" />
+<img align="left" alt="Codepen" width="26px" src="icons/codepen/codepen-logo-black.png" />
 <img align="left" alt="sourcetree" width="26px" src="icons/sourcetree/sourcetree-original.svg" />
 <br>
 
