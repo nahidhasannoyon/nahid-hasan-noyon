@@ -104,11 +104,12 @@ file:///F:/GitHub/nahid-hasan-noyon/icons/oracle/oracle-original.svg
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
-
-### :zap: Recent GitHub Activity</summary>
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+</details>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nahid-hasan-noyon)  
 
