@@ -62,6 +62,9 @@ icons/facebook/facebook-original.svg
 <img align="left" alt="Bitbucket" width="26px" src="icons/bitbucket/bitbucket-original.svg" />
 <img align="left" alt="GitLab" width="26px" src="icons/gitlab/gitlab-original.svg" />
 
+<br> 
+<br>
+
 ![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true&theme=radical)
 <!-- Add github status 
  ![[YOUR SORT NAME]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=[GITHUB USERNAME]&show_icons=true&theme=radical)
@@ -163,6 +166,7 @@ or, https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350f
 
 <!-- Add github status 
  ![[YOUR SORT NAME]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=[GITHUB USERNAME]&show_icons=true&theme=radical)
-
 -->
-
+<!-- Add Badges 
+ https://shields.io/
+-->
