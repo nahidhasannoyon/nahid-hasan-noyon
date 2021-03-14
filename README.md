@@ -26,7 +26,7 @@
 [<img src='icons/uri/uri.png'  alt='uri'  height='35'>](https://www.urionlinejudge.com.br/judge/en/profile/508930)
 [<img src='icons/toph/toph.png'  alt='toph'  height='35'>](https://toph.co/u/aminahid)
 [<img src='icons/spoj/spoj.png'  alt='spoj'  height='35'>](https://www.spoj.com/status/aminahid/)
-[<img src='icons/spoj/spoj.png'  alt='cs academy'  height='35'>](https://csacademy.com/user/aminahid)
+[<img src='icons/cs_academy/cs_academy.png'  alt='cs academy'  height='35'>](https://csacademy.com/user/aminahid)
 [<img src='icons/vjudge/vjudge.ico'  alt='vjudge'  height='35'>](https://vjudge.net/user/AmiNahid)
 <br />
 <br />
