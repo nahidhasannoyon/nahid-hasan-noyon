@@ -122,3 +122,9 @@ or, https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350f
 ✅ Completed 625 tasks so far
 ⏳ Longest streak is 10 days
 -->
+
+<!-- add a payment method in buymeacoffee.com then uncomment it
+<p align="center">
+<a href="https://www.buymeacoffee.com/nahid20" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
+</p>
+-->
