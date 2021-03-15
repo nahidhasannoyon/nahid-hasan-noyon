@@ -170,3 +170,10 @@ Bash                     18 mins             █░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+#### :sparkles: My followers
+
+<!--START_SECTION:top-followers-->
+
+<!--END_SECTION:top-followers-->
