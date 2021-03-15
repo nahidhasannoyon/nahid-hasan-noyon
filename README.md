@@ -116,3 +116,9 @@ or, https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350f
  🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
+
+<!-- 🏆 7,756 Karma Points
+🌸 Completed 0 tasks today
+✅ Completed 625 tasks so far
+⏳ Longest streak is 10 days
+-->
