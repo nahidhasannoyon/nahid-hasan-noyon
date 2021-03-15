@@ -1,6 +1,8 @@
 <figure>
  <embed src="https://wakatime.com/share/@NahidHasanNoyon/80cd11ea-d5ff-4178-b480-301f41aee152.svg"> </embed>
  </figure>
+ 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 ## Hi there, I'm Nahid Hasan Noyon 👋
 
@@ -166,3 +168,4 @@ or, https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350f
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
+
