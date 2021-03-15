@@ -1,24 +1,4 @@
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
-</p>
-
-<p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:itgoyo"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
-</p>
-
-
-### :sparkles: My Followers
-
-<!--START_SECTION:top-followers-->
-
-<!--END_SECTION:top-followers-->
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<figure><embed src="https://wakatime.com/share/@NahidHasanNoyon/80cd11ea-d5ff-4178-b480-301f41aee152.svg"></embed></figure>
 
 ## Hi there, I'm Nahid Hasan Noyon 👋
 
