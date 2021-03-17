@@ -1,6 +1,4 @@
-<figure>
- <embed src="https://wakatime.com/share/@NahidHasanNoyon/80cd11ea-d5ff-4178-b480-301f41aee152.svg"> </embed>
- </figure>
+<figure><embed src="https://wakatime.com/share/@NahidHasanNoyon/94468a57-af33-4778-b406-83e689667171.svg"></embed></figure>
 
 ## Hi there, I'm Nahid Hasan Noyon 👋
 
