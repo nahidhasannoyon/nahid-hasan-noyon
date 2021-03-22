@@ -39,6 +39,7 @@
 <code><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px"></code>
+
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
 ### Skilled Tools:
