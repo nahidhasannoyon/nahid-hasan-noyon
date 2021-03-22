@@ -36,7 +36,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="icons/java/java.svg"></code>
 <code><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"></code>    
-<code><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/css.svg" alt="css" style="vertical-align:top; margin:4px"></code>
+<code><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px"></code>
 <code><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px"></code>
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
