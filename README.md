@@ -87,32 +87,11 @@
 ![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true&theme=radical) [![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon)](https://github.com/nahid-hasan-noyon/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid-hasan-noyon&layout=compact)
 
 <!--📊 **This week I spent my time on**-->
-
-<!--![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=NahidHasanNoyon&hide_title=true&hide_border=true&langs_count=5)
--->
+<!--![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=NahidHasanNoyon&hide_title=true&hide_border=true&langs_count=5)-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nahid-hasan-noyon&theme=onedark)](https://github.com/nahid-hasan-noyon/github-profile-trophy)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nahid-hasan-noyon) 
 </details>
-
-<!--
-file:///F:/GitHub/nahid-hasan-noyon/icons/google/google-original.svg
-file:///F:/GitHub/nahid-hasan-noyon/icons/heroku/heroku-original.svg
-file:///F:/GitHub/nahid-hasan-noyon/icons/oracle/oracle-original.svg
--->
-
-### StackOverflow Activity
-<!-- STACKOVERFLOW:START -->
-<!-- STACKOVERFLOW:END -->
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
- 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
- 
-</details>
- 
 
 ![GitHub metrics](https://metrics.lecoq.io/nahid-hasan-noyon)  
 
@@ -134,41 +113,24 @@ or, https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350f
 <!-- Add github status 
  ![[YOUR SORT NAME]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=[GITHUB USERNAME]&show_icons=true&theme=radical)
 -->
+
 <!-- Add Badges 
  https://shields.io/
 -->
 
- 🚧 **My Todoist Stats:**
- 
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
-
-<!-- 🏆 7,756 Karma Points
-🌸 Completed 0 tasks today
-✅ Completed 625 tasks so far
-⏳ Longest streak is 10 days
--->
 
 <!-- add a payment method in buymeacoffee.com then uncomment it
 <p align="center">
 <a href="https://www.buymeacoffee.com/nahid20" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
 </p>
 -->
-# waka
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 #### :sparkles: My followers
 
 <!--START_SECTION:top-followers-->
-
-
 <!--END_SECTION:top-followers-->
-
-
 
 ### :sparkles: My Followers
 
