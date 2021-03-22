@@ -89,13 +89,12 @@
 <!--📊 **This week I spent my time on**-->
 <!--![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=NahidHasanNoyon&hide_title=true&hide_border=true&langs_count=5)-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nahid-hasan-noyon&theme=onedark)](https://github.com/nahid-hasan-noyon/github-profile-trophy)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nahid-hasan-noyon) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=nahid-hasan-noyon&theme=onedark)](https://github.com/nahid-hasan-noyon/github-profile-trophy) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nahid-hasan-noyon) ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nahid-hasan-noyon) 
 </details>
 
 ![GitHub metrics](https://metrics.lecoq.io/nahid-hasan-noyon)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nahid-hasan-noyon)  
+  
 
 ![Profile views](https://gpvc.arturio.dev/nahid-hasan-noyon)  
 
