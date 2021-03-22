@@ -81,15 +81,19 @@
 <!-- Add github status 
  ![[YOUR SORT NAME]'s GitHub stats](https://github-readme-stats.vercel.app/api?username=[GITHUB USERNAME]&show_icons=true&theme=radical)
 -->
-
+<details>
+  <summary>:zap: GitHub Activity</summary> 
+  
 ![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon&show_icons=true&theme=radical) [![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid-hasan-noyon)](https://github.com/nahid-hasan-noyon/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahid-hasan-noyon&layout=compact)
 
-📊 **This week I spent my time on**
+<!--📊 **This week I spent my time on**-->
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=NahidHasanNoyon&hide_title=true&hide_border=true&langs_count=5)
-
+<!--![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=NahidHasanNoyon&hide_title=true&hide_border=true&langs_count=5)
+-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nahid-hasan-noyon&theme=onedark)](https://github.com/nahid-hasan-noyon/github-profile-trophy)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nahid-hasan-noyon) 
+</details>
 
 <!--
 file:///F:/GitHub/nahid-hasan-noyon/icons/google/google-original.svg
@@ -108,8 +112,7 @@ file:///F:/GitHub/nahid-hasan-noyon/icons/oracle/oracle-original.svg
 <!--END_SECTION:activity-->
  
 </details>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nahid-hasan-noyon)  
+ 
 
 ![GitHub metrics](https://metrics.lecoq.io/nahid-hasan-noyon)  
 
