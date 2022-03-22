@@ -124,8 +124,7 @@ or, https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350f
 <!--START_SECTION:waka-->
 
 ```text
-Python   1 hr 35 mins    █████████████████████████   99.91 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+
 ```
 
 <!--END_SECTION:waka-->
