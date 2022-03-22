@@ -126,4 +126,4 @@ or, https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350f
 
 
 <figure><embed src="https://wakatime.com/share/@NahidHasanNoyon/f775ff4b-4352-4ebb-ae8b-43f20520db4c.svg"></embed></figure>
-<img src="https://wakatime.com/share/@NahidHasanNoyon/ef45c84d-5bd1-4725-89d7-1307843e5036.svg" height="300px">
+<img src="https://wakatime.com/share/@NahidHasanNoyon/ef45c84d-5bd1-4725-89d7-1307843e5036.svg" height="300px" width="500px>
