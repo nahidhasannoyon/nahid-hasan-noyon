@@ -128,3 +128,6 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+
+<figure><embed src="https://wakatime.com/share/@NahidHasanNoyon/f775ff4b-4352-4ebb-ae8b-43f20520db4c.svg"></embed></figure>
