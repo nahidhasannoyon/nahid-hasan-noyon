@@ -124,7 +124,11 @@ or, https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350f
 <!--START_SECTION:waka-->
 
 ```text
-Dart   2 hrs 13 mins   █████████████████████████   100.00 %
+Dart     3 hrs 11 mins   ██████████████████████░░░   87.44 %
+Groovy   15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+XML      5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+YAML     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Other    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
