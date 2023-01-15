@@ -124,10 +124,10 @@ or, https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350f
 <!--START_SECTION:waka-->
 
 ```text
-Dart             5 hrs 40 mins   ████████████░░░░░░░░░░░░░   48.30 %
-Blade Template   3 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   27.94 %
-PHP              2 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   23.48 %
-Groovy           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Dart             6 hrs 32 mins   █████████████████████░░░░   84.42 %
+PHP              57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
+Blade Template   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Groovy           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
