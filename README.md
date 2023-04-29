@@ -124,7 +124,9 @@ or, https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350f
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Dart   34 mins         █████████████████░░░░░░░░   68.36 %
+JSON   14 mins         ███████▒░░░░░░░░░░░░░░░░░   29.17 %
+PHP    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 ```
 
 <!--END_SECTION:waka-->
