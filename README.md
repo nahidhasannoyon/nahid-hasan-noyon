@@ -126,6 +126,9 @@ or, https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350f
 ```text
 Dart     18 hrs 28 mins  ██████████████████▓░░░░░░   74.82 %
 Other    5 hrs 37 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
+JSON     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Groovy   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Swift    6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
