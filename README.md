@@ -123,7 +123,7 @@ or, https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350f
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Dart     29 hrs 10 mins  █████████████████▒░░░░░░░   69.38 %
 Other    12 hrs 49 mins  ███████▓░░░░░░░░░░░░░░░░░   30.47 %
 YAML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
