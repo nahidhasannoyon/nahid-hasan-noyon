@@ -124,7 +124,11 @@ or, https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350f
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart     2 hrs 26 mins   ████████████████░░░░░░░░░   64.07 %
+Other    1 hr 9 mins     ███████▓░░░░░░░░░░░░░░░░░   30.47 %
+PHP      11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Groovy   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
